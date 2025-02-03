@@ -14,7 +14,7 @@ The Emergency Room Management System is like a computer program written in Java 
   <li>Logout Module</li>
 </ol>
 <br><br>
-<strong>>What is input</strong>
+<strong>What is input</strong>
 <ul>
   <li>User Choices</li>
   <li>Authentications</li>
@@ -24,7 +24,7 @@ The Emergency Room Management System is like a computer program written in Java 
   <li>Logging Out</li>
   <li>Exiting the System</li>
 </ul>
-<br>
+
 <strong>What is output</strong>
 <ul>
   <li>System Messages</li>
