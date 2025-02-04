@@ -4,6 +4,8 @@ Developed a Room Management System for emergency rooms, enabling administrators 
 <br> <br>
 <strong>Brief Description: </strong>
 The Emergency Room Management System is like a computer program written in Java that helps hospitals organise their emergency rooms better. In emergencies, it’s important to quickly figure out which patients need help the most. The system uses a special way of organising patients called “Priority Queue” to make sure doctors can focus on the most urgent cases first. It’s like having a smart system to decide who gets help first when a lot of people need it. 
+<br>
+It is based on JAVA, OOPS, Priority Queue. (Java Console Based)
 <br><br>
 <strong>MODULES</strong>
 <ol>
